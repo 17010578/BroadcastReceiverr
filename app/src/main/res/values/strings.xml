@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroadcastReceiver</string>
+    <string name="rad1">You have a good taste</string>
+    <string name="rad2">Bro, think twice about it</string>
+</resources>
